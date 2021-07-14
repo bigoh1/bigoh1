@@ -11,7 +11,7 @@ class Me:
         self.editor = "Neovim"
 
         # And many more!
-        self.interested_in = ['CS', 'Maths', 'Cryptography', 'GNU/Linux', 'Open Source', 'Reading']
+        self.love = ['CS', 'Maths', 'Cryptography', 'GNU/Linux', 'Open Source', 'Books']
         self.keen_on = "Learning new things"
         self.sport = True
         
