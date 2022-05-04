@@ -5,7 +5,7 @@ class Me:
     def __init__(self):
         self.pronouns = ['He', 'Him']
         self.name = 'Yehor'
-        self.about_me = 'A high school senior'
+        self.about_me = 'A high school graduate'
         
         self.desktop = "KDE Arch on encrypted LVM"
         self.editor = "Neovim"
