@@ -6,6 +6,7 @@ class Me:
         self.pronouns = ['He', 'Him']
         self.name = 'Yehor'
         self.about_me = 'A high school graduate'
+        self.nationality = "Ukrainian 🇺🇦"
         
         self.desktop = "KDE Arch on encrypted LVM"
         self.editor = "Neovim"
