@@ -5,17 +5,15 @@ class Me:
     def __init__(self):
         self.pronouns = ['He', 'Him']
         self.name = 'Yehor'
-        self.about_me = 'A high school graduate'
-        self.nationality = "Ukrainian 🇺🇦"
+        self.about_me = 'Second-year Mathematics student'
         
         self.desktop = "KDE Arch on encrypted LVM"
         self.editor = "Neovim"
 
         # And many more!
-        self.love = ['CS', 'Maths', 'Cryptography', 'GNU/Linux', 'Open Source', 'Books']
+        self.love = ['Computer Science', 'Mathematics', 'Cryptography', 'GNU/Linux', 'Open Source', 'Books']
         self.keen_on = "Learning new things"
         self.sport = True
-        
 ```
 
 <details>
